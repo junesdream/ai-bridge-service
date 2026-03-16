@@ -1,0 +1,4 @@
+# requirements
+FastAPI
+Uvicorn
+Pydantic
