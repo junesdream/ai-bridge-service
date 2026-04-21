@@ -45,7 +45,7 @@ By providing a standardized API interface, it abstracts the complexity of LLM pr
 
 ```
 [ Client App ] --> ( JSON Request )
-↓
+                ↓
 AI-Bridge-Service (FastAPI)
 ┌──────────────┴──────────────┐
 ↓                             ↓
